@@ -1,4 +1,4 @@
-***Computer Vision - Object Detection using Binary Image Processing***
+**Computer Vision - Object Detection using Binary Image Processing**
 
 ---
 This assignment was to create a script to prototype the capabilities of the cv2 library when it comes to performing Morphological Transformations.
