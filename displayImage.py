@@ -9,4 +9,5 @@ def displayImage(filename, cmap, title=None):
     plt.imshow(filename, cmap=cmap)
     if title is not None:
         plt.title(title)
-    plt.show()
+    print("Press any button to continue...")
+    plt.waitforbuttonpress()
