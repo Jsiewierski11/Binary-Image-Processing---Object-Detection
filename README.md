@@ -1,7 +1,7 @@
 ***Computer Vision - Object Detection using Binary Image Processing***
 
 ---
-This assignment was to create a script to prototype the capabilities of the cv2 library when it comes to perform Morphological Transformations.
+This assignment was to create a script to prototype the capabilities of the cv2 library when it comes to performing Morphological Transformations.
 
 ---
 Running Project3.py will load in neuron.jpg(image1) and blood-cells_12.Red-blood-ce.jpg(image2)
